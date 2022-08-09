@@ -12,7 +12,7 @@ spec:
             - name: "je-test"
             - name: "evaluation"
               properties:
-                timeframe: "2m"
+                timeframe: "1m"
 
     - name: "production"
       sequences:
