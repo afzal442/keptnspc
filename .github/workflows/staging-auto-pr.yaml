@@ -17,7 +17,7 @@ jobs:
         destination_branch: "master"
         pr_title: "Pulling ${{ github.ref }} into master"
         pr_body: "👑 *An automated PR*"
-        pr_reviewer: "kingdonb"
+        pr_reviewer: "afzal442"
         pr_draft: true
         github_token: ${{ secrets.GITHUB_TOKEN }}
         
